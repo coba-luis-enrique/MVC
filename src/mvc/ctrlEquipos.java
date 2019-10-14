@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Danny
+ * @author coba
  */
 public class ctrlEquipos 
 {
