@@ -9,7 +9,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author Danny
+ * @author Coba
  */
 public class Mysql {
     
