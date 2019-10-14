@@ -7,7 +7,7 @@ package mvc;
 
 /**
  *
- * @author Danny
+ * @author coba
  */
 public class Equipos 
 {
