@@ -9,7 +9,7 @@ import java.sql.Connection;
 
 /**
  *
- * @author Danny
+ * @author Coba
  */
 public class MVC {
 
