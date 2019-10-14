@@ -7,7 +7,7 @@ package mvc;
 
 /**
  *
- * @author Danny
+ * @author Coba
  */
 public class frmEquipos extends javax.swing.JFrame {
 
